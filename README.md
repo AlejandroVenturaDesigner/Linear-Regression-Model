@@ -1,4 +1,4 @@
-# Simple Linear Regression Model
+# Simple Linear Regression Model in Python
 
 In these project I built a linear regression model to a Data Set applying Scikit Learn in Python, splitting Data Set 75% for training and 25% for testing
 and getting a linear equation to predict future behaviors.
